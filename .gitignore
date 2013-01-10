@@ -4,3 +4,5 @@ Berksfile.lock
 vendor/cookbooks
 Gemfile.lock
 vendor/bundle
+*.rpm
+*.deb
