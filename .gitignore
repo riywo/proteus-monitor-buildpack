@@ -1,0 +1,6 @@
+.*
+!.gitignore
+Berksfile.lock
+vendor/cookbooks
+Gemfile.lock
+vendor/bundle

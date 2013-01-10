@@ -1,0 +1,3 @@
+[submodule "dist-agent/usr/local/proteus-monitor-agent"]
+	path = dist-agent/usr/local/proteus-monitor-agent
+	url = https://github.com/ameba-proteus/proteus-monitor-agent.git
