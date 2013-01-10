@@ -1,6 +1,6 @@
 ## INSTALL
 
-    $ git clone git@github.com:riywo/proteus-monitor-buildpack.git
+    $ git clone https://github.com/riywo/proteus-monitor-buildpack.git
     $ cd proteus-monitor-buildpack
     $ git submodule init
     $ git submodule update
